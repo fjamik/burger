@@ -1,0 +1,43 @@
+.jumbotron {
+  background-image: url("/assets/img/giphy.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 10px;
+
+}
+
+.jumbotron > h1 {
+  font-family: 'Creepster', cursive;
+  color: #931e29
+}
+
+#newburger {
+  border-radius: 5px;
+}
+
+#color-override {
+  color: lightgreen;
+}
+
+#lefthead {
+  background-color: #5cb85c;
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#eatbutton {
+  float: right;
+  
+}
+#trashbutton {
+  float: right;
+}
+
+#righthead {
+  background-color: #f0ad4e;
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
